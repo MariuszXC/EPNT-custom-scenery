@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+    <Parking index="0" type="ga" name="1"  lat="N49 27.916344" lon="E20 3.015729" heading="120.0"  radius="10" airlineCodes="" />
+    <Parking index="1" type="ga" name="2"  lat="N49 27.901353" lon="E20 3.009296" heading="120.0"  radius="10" airlineCodes="" />
+    <Parking index="2" type="ga" name="3"  lat="N49 27.890109" lon="E20 3.002863" heading="120.0"  radius="10" airlineCodes="" />
+    <Parking index="3" type="ga" name="4"  lat="N49 27.878865" lon="E20 2.996431" heading="120.0"  radius="10" airlineCodes="" />
+    <Parking index="4" type="ga" name="5"  lat="N49 27.867621" lon="E20 2.989998" heading="120.0"  radius="10" airlineCodes="" />
+    <Parking index="5" type="ga" name="6"  lat="N49 27.916344" lon="E20 3.228012" heading="310.0"  radius="10" airlineCodes="" />
+    <Parking index="6" type="ga" name="7"  lat="N49 27.901353" lon="E20 3.221579" heading="310.0"  radius="10" airlineCodes="" />
+    <Parking index="7" type="ga" name="8"  lat="N49 27.890109" lon="E20 3.215147" heading="310.0"  radius="10" airlineCodes="" />
+    <Parking index="8" type="ga" name="9"  lat="N49 27.878865" lon="E20 3.208714" heading="310.0"  radius="10" airlineCodes="" />
+    <Parking index="9" type="ga" name="10" lat="N49 27.867621" lon="E20 3.202281" heading="310.0"  radius="10" airlineCodes="" />
+ </parkingList>
+</groundnet>
