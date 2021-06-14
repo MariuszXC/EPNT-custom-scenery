@@ -4,6 +4,8 @@
 
   <path>Band-ba.ac</path>
 
+  <enable-hot>false</enable-hot>
+
   <animation>
     <type>range</type>
     <min-m>0</min-m>
